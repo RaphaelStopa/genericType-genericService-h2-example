@@ -1,10 +1,10 @@
-package com.generic.demolazy;
+package com.generic.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemolazyApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package com.generic.demolazy.util;
+package com.generic.example.util;
 
 public interface Convertible<T> {
     T convert();

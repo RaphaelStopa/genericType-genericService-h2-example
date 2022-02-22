@@ -1,6 +1,6 @@
-package com.generic.demolazy.dto;
+package com.generic.example.dto;
 
-import com.generic.demolazy.entities.Employee;
+import com.generic.example.entities.Employee;
 
 public class EmployeeDTO {
 

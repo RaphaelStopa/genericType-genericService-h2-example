@@ -1,6 +1,6 @@
-package com.generic.demolazy.services;
+package com.generic.example.services;
 
-import com.generic.demolazy.util.Convertible;
+import com.generic.example.util.Convertible;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
