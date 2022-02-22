@@ -1,16 +1,12 @@
-package com.devsuperior.demolazy.services;
+package com.generic.demolazy.services;
 
-import java.util.List;
-import java.util.Optional;
-import java.util.stream.Collectors;
-
+import com.generic.demolazy.entities.Employee;
+import com.generic.demolazy.repositories.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Service;
 
-import com.devsuperior.demolazy.dto.EmployeeDTO;
-import com.devsuperior.demolazy.entities.Employee;
-import com.devsuperior.demolazy.repositories.EmployeeRepository;
+import com.generic.demolazy.dto.EmployeeDTO;
 
 @Service
 public class EmployeeService implements GenericService<Employee, EmployeeDTO, Long>{

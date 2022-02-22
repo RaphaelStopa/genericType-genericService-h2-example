@@ -1,7 +1,7 @@
-package com.devsuperior.demolazy.entities;
+package com.generic.demolazy.entities;
 
-import com.devsuperior.demolazy.dto.EmployeeDTO;
-import com.devsuperior.demolazy.util.Convertible;
+import com.generic.demolazy.dto.EmployeeDTO;
+import com.generic.demolazy.util.Convertible;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

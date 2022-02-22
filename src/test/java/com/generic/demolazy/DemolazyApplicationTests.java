@@ -1,4 +1,4 @@
-package com.devsuperior.demolazy;
+package com.generic.demolazy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

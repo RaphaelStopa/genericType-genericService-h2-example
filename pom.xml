@@ -8,11 +8,9 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
-	<artifactId>demolazy</artifactId>
+	<groupId>com.generic</groupId>
+	<artifactId>example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demolazy</name>
-	<description>Aula DevSuperior Nelio Alves</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
